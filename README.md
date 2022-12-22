@@ -1,16 +1,26 @@
-### Hi there 👋
+|Hi there, im Royy👋|
+|----|
 
-<!--
-**royyalbert/royyalbert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨‍💻I’m crrently learning lua
+- 🏢I’m currently working on - [CoreVersion](https://github.com/CoreVersion)
+- 👾Intested in recieving github updates & viewing upcoming projects? join the community on **[Discord](https://discord.gg/PJPcsWV2sv)**!
+- ![discord](https://img.shields.io/discord/1007794580126711830?label=%20&logo=discord)
+___
 
-Here are some ideas to get you started:
+<details>
+<summary>My top languages</summary>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Rank | Languages |
+|-----:|-----------|
+|     1| Lua       |
+|     2| Html      |
+|     3| Css       |
+  
+</details>
+
+[![Top Langs](https://github-readme-streak-stats.herokuapp.com?user=royyalbert&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+
+![Z3's GitHub stats](https://github-readme-stats.vercel.app/api?username=royyalbert&show_icons=true&theme=tokyonight)
+
+![Profile views](https://gpvc.arturio.dev/royyalbert)
