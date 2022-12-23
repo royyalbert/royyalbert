@@ -21,6 +21,6 @@ ___
 [![Top Langs](https://github-readme-streak-stats.herokuapp.com?user=royyalbert&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
-![Z3's GitHub stats](https://github-readme-stats.vercel.app/api?username=royyalbert&show_icons=true&theme=tokyonight)
+![royyalbert GitHub stats](https://github-readme-stats.vercel.app/api?username=royyalbert&show_icons=true&theme=tokyonight)
 
 ![Profile views](https://gpvc.arturio.dev/royyalbert)
