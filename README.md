@@ -18,6 +18,8 @@ ___
   
 </details>
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/921136872359604235)](https://discord.com/users/921136872359604235)
+
 [![Top Langs](https://github-readme-streak-stats.herokuapp.com?user=royyalbert&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
